@@ -11082,3 +11082,9 @@ legend {
 .social {
   justify-content: space-around;
 }
+
+.element {
+  max-height: 500px;
+  max-width: 250px;
+  margin: 20px;
+}
