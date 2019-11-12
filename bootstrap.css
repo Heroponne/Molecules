@@ -11074,3 +11074,11 @@ legend {
 .fa-glass-cheers {
   margin: 50px 0 30px 0;
 }
+
+.heart {
+  margin: auto;
+}
+
+.social {
+  justify-content: space-around;
+}
