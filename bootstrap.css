@@ -3275,9 +3275,9 @@ input[type="button"].btn-block {
 }
 
 .dropdown-menu {
-  position: relative;
+  position: absolute;
   top: 100%;
-  left: -95px;
+  left: 0;
   z-index: 1000;
   display: none;
   float: left;
@@ -11050,4 +11050,8 @@ legend {
 
 .list-group-item:hover {
   background-color: #1c1e22;
+}
+
+.fa-glass-cheers {
+  margin: 50px 0 30px 0;
 }
